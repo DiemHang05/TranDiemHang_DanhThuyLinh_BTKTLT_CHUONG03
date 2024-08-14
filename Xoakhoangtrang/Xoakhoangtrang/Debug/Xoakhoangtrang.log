@@ -1,0 +1,19 @@
+﻿Build started 14/08/2024 1:27:31 CH.
+     1>Project "D:\TestMVC\Xoakhoangtrang\Xoakhoangtrang\Xoakhoangtrang.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\VISUAL\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>d:\testmvc\xoakhoangtrang\xoakhoangtrang\source.cpp(23): warning C4566: character represented by universal-character-name '\u1EAD' cannot be represented in the current code page (1252)
+     1>d:\testmvc\xoakhoangtrang\xoakhoangtrang\source.cpp(23): warning C4566: character represented by universal-character-name '\u1ED7' cannot be represented in the current code page (1252)
+     1>d:\testmvc\xoakhoangtrang\xoakhoangtrang\source.cpp(27): warning C4566: character represented by universal-character-name '\u1ED7' cannot be represented in the current code page (1252)
+     1>d:\testmvc\xoakhoangtrang\xoakhoangtrang\source.cpp(27): warning C4566: character represented by universal-character-name '\u1EA3' cannot be represented in the current code page (1252)
+     1>d:\testmvc\xoakhoangtrang\xoakhoangtrang\source.cpp(27): warning C4566: character represented by universal-character-name '\u1EAF' cannot be represented in the current code page (1252)
+     1>d:\testmvc\xoakhoangtrang\xoakhoangtrang\source.cpp(27): warning C4566: character represented by universal-character-name '\u1EEB' cannot be represented in the current code page (1252)
+       Link:
+         C:\Program Files (x86)\VISUAL\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\TestMVC\Xoakhoangtrang\Debug\Xoakhoangtrang.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\TestMVC\Xoakhoangtrang\Debug\Xoakhoangtrang.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\TestMVC\Xoakhoangtrang\Debug\Xoakhoangtrang.lib" /MACHINE:X86 Debug\Source.obj
+         Xoakhoangtrang.vcxproj -> D:\TestMVC\Xoakhoangtrang\Debug\Xoakhoangtrang.exe
+     1>Done Building Project "D:\TestMVC\Xoakhoangtrang\Xoakhoangtrang\Xoakhoangtrang.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.15
