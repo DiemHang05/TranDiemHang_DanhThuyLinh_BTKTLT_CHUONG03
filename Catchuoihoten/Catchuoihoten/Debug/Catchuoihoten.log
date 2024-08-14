@@ -1,0 +1,21 @@
+﻿Build started 14/08/2024 1:32:30 CH.
+     1>Project "D:\TestMVC\Catchuoihoten\Catchuoihoten\Catchuoihoten.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\VISUAL\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>d:\testmvc\catchuoihoten\catchuoihoten\source.cpp(20): warning C4566: character represented by universal-character-name '\u1EAD' cannot be represented in the current code page (1252)
+     1>d:\testmvc\catchuoihoten\catchuoihoten\source.cpp(20): warning C4566: character represented by universal-character-name '\u1ECD' cannot be represented in the current code page (1252)
+     1>d:\testmvc\catchuoihoten\catchuoihoten\source.cpp(20): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+     1>d:\testmvc\catchuoihoten\catchuoihoten\source.cpp(20): warning C4566: character represented by universal-character-name '\u1EA7' cannot be represented in the current code page (1252)
+     1>d:\testmvc\catchuoihoten\catchuoihoten\source.cpp(20): warning C4566: character represented by universal-character-name '\u1EE7' cannot be represented in the current code page (1252)
+     1>d:\testmvc\catchuoihoten\catchuoihoten\source.cpp(25): warning C4566: character represented by universal-character-name '\u1ED7' cannot be represented in the current code page (1252)
+     1>d:\testmvc\catchuoihoten\catchuoihoten\source.cpp(25): warning C4566: character represented by universal-character-name '\u1ECD' cannot be represented in the current code page (1252)
+     1>d:\testmvc\catchuoihoten\catchuoihoten\source.cpp(26): warning C4566: character represented by universal-character-name '\u1ED7' cannot be represented in the current code page (1252)
+       Link:
+         C:\Program Files (x86)\VISUAL\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\TestMVC\Catchuoihoten\Debug\Catchuoihoten.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\TestMVC\Catchuoihoten\Debug\Catchuoihoten.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\TestMVC\Catchuoihoten\Debug\Catchuoihoten.lib" /MACHINE:X86 Debug\Source.obj
+         Catchuoihoten.vcxproj -> D:\TestMVC\Catchuoihoten\Debug\Catchuoihoten.exe
+     1>Done Building Project "D:\TestMVC\Catchuoihoten\Catchuoihoten\Catchuoihoten.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.02
